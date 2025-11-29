@@ -1,0 +1,5 @@
+{
+  "name": "BobaTogether - Group Drink Ordering",
+  "description": "A social drink ordering app. Create a group order, share the link, and let friends add their bubble tea or coffee orders. Features an AI Concierge for drink recommendations.",
+  "requestFramePermissions": []
+}
